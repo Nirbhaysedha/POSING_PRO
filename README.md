@@ -12,5 +12,5 @@ Pose Detection with PoseNet Pro is a real-time posture detection application tha
 
 ## Demo
 
-Check out the live demo of the Pose Detection application: https://nirbhaysedha.github.io/POSING_PRO/
+Check out the live demo of the Pose Detection : https://nirbhaysedha.github.io/POSING_PRO/
 
